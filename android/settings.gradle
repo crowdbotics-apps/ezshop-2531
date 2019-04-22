@@ -1,0 +1,3 @@
+rootProject.name = 'ezshop_2531'
+
+include ':app'
